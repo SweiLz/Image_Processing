@@ -1,0 +1,17 @@
+Intrinsic Camera Matrix
+[[ 355.10570631    0.          637.24648011]
+ [   0.          306.93399929  354.12252587]
+ [   0.            0.            1.        ]]
+
+Distortion Coefficient
+[[ 0.0073742  -0.01082518  0.0019225  -0.00186818  0.00340373]]
+
+Extrinsic Camera Matrix
+Rotation Matrix
+[array([[-0.00414865],
+       [-0.28394956],
+       [-3.11090637]])]
+Translation Matrix
+[array([[ 4.35138892],
+       [ 3.30955487],
+       [ 4.46362453]])]
